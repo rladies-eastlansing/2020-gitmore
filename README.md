@@ -26,7 +26,7 @@ Log into Slack: <br>
 ### Contact
 eastlansing@rladies.org; chicago@rladies.org 
 
-=====================================================
+***
 
 # Assumed knowledge
 Participants should be familiar with
