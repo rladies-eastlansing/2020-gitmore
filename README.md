@@ -1,8 +1,8 @@
 
 # Getting the Most of Git
 ### Speakers
-- Colin Gillespie [@csgillespie](https://github.com/csgillespie)
-- Ian Flores [@ian-flores](https://github.com/ian-flores)
+- Colin Gillespie [@csgillespie](https://github.com/csgillespie), [Jumping Rivers](https://jumpingrivers.com/)
+- Rhian Davies [@trianglegirl](https://twitter.com/trianglegirl), [Jumping Rivers](https://jumpingrivers.com/)
 
 ### Hosts
 - UseR
