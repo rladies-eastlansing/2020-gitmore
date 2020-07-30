@@ -13,9 +13,12 @@
 Date: July 31, 2020
 Time: 9–11.30 AM EST
 
-### Sign up
+### Sign up [CLOSED]
 [Must SIGN UP to register.](https://forms.gle/PRp26658f66BA3vW8)
 - Zoom meeting link will be provided to confirmed attendees
+
+### Tutorial help page
+https://bit.ly/r-git-tutorial
 
 #### How to reach us
 Log into Slack: <br>
@@ -38,6 +41,8 @@ Participants should be familiar with
 - writing a simple R package
 
 # Before the meetup
+https://bit.ly/r-git-tutorial
+
 Please create accounts on the following websites:
 - https://travis-ci.org
 - https://codecov.io/
@@ -64,7 +69,7 @@ We will discuss widely applicable Q's via Zoom for everyone's benefit. <br>
 We will answer additional Q's via Slack. <br>
 
 # Resources
-### Sign up
+### Sign up [CLOSED]
 > [Please fill out this form first to register](https://forms.gle/PRp26658f66BA3vW8)
 
 ### GITHUB
