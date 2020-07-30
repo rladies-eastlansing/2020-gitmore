@@ -1,5 +1,5 @@
 
-# Getting the Most of Git
+# Getting the Most out of Git
 ### Speakers
 - Colin Gillespie [@csgillespie](https://github.com/csgillespie), [Jumping Rivers](https://jumpingrivers.com/)
 - Rhian Davies [@trianglegirl](https://twitter.com/trianglegirl), [Jumping Rivers](https://jumpingrivers.com/)
